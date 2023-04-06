@@ -1,0 +1,107 @@
+Log file created on Mon Mar 20 19:06:10 CDT 2023
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+7:06:09 PM [main] [message] Log: When reporting bugs, please include the following information:
+7:06:09 PM [main] [message] Log: java.version=1.8.0_362
+7:06:09 PM [main] [message] Log: java.vm.version=25.362-b09
+7:06:09 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+7:06:09 PM [main] [message] Log: java.runtime.version=1.8.0_362-b09
+7:06:09 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+7:06:09 PM [main] [message] Log: java.vendor=Azul Systems, Inc.
+7:06:09 PM [main] [message] Log: java.compiler=null
+7:06:09 PM [main] [message] Log: os.name=Mac OS X
+7:06:09 PM [main] [message] Log: os.version=13.2.1
+7:06:09 PM [main] [message] Log: os.arch=aarch64
+7:06:09 PM [main] [message] Log: user.home=/Users/dharav
+7:06:09 PM [main] [message] Log: java.home=/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+7:06:09 PM [main] [message] Log: java.class.path=/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/cat.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/crs-agent.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar:/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/classes/core:/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/jsr305-3.0.2.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar
+7:06:09 PM [main] [message] jEdit: starting with command line arguments: -settings=/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings
+7:06:09 PM [main] [notice] jEdit: An error occurred while connecting to the jEdit server instance.
+7:06:09 PM [main] [notice] jEdit: This probably means that jEdit crashed and/or exited abnormally
+7:06:09 PM [main] [notice] jEdit: the last time it was run.
+7:06:09 PM [main] [notice] jEdit: If you don't know what this means, don't worry.
+7:06:09 PM [main] [notice] jEdit: java.net.ConnectException: Connection refused (Connection refused)
+7:06:09 PM [main] [notice] jEdit:  at java.net.PlainSocketImpl.socketConnect(Native Method)
+7:06:09 PM [main] [notice] jEdit:  at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+7:06:09 PM [main] [notice] jEdit:  at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+7:06:09 PM [main] [notice] jEdit:  at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+7:06:09 PM [main] [notice] jEdit:  at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+7:06:09 PM [main] [notice] jEdit:  at java.net.Socket.connect(Socket.java:613)
+7:06:09 PM [main] [notice] jEdit:  at java.net.Socket.connect(Socket.java:561)
+7:06:09 PM [main] [notice] jEdit:  at java.net.Socket.<init>(Socket.java:457)
+7:06:09 PM [main] [notice] jEdit:  at java.net.Socket.<init>(Socket.java:267)
+7:06:09 PM [main] [notice] jEdit:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:320)
+7:06:09 PM [main] [debug] jEdit: before splash screen activation:28 ms
+7:06:10 PM [main] [debug] jEdit: after splash screen activation:680 ms
+7:06:10 PM [main] [debug] MiscUtilities: Saving backup of file "/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/activity.log" to "/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/settings-backup/activity.log~1~"
+7:06:10 PM [main] [notice] jEdit: jEdit version 5.5.0
+7:06:10 PM [main] [message] jEdit: Settings directory is /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings
+7:06:10 PM [main] [message] jEdit: jEdit home directory is /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master
+7:06:10 PM [main] [debug] SplashScreen: init:10/484ms
+7:06:10 PM [main] [debug] SplashScreen: init system properties:7/491ms
+7:06:10 PM [main] [message] BeanShell: Beanshell Init
+7:06:10 PM [main] [debug] SplashScreen: init beanshell:21/512ms
+7:06:10 PM [main] [debug] SplashScreen: loading site properties:3/515ms
+7:06:10 PM [main] [debug] SplashScreen: loading user properties:9/524ms
+7:06:10 PM [main] [debug] GUIUtilities: Icon theme set to: tango
+7:06:10 PM [main] [debug] GUIUtilities: Loading icon theme from: jeditresource:/org/gjt/sp/jedit/icons/themes/tango/
+7:06:10 PM [main] [debug] SplashScreen: init GUI:4/528ms
+7:06:10 PM [main] [debug] EditServer: jEdit server started on port 50368
+7:06:10 PM [main] [debug] EditServer: Authorization key is 1286282004
+7:06:10 PM [main] [debug] SplashScreen: init server:29/557ms
+7:06:10 PM [main] [debug] jEdit: initPLAF non-edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+7:06:10 PM [main] [debug] SplashScreen: init look and feel:2/559ms
+7:06:10 PM [main] [debug] SplashScreen: init VFS Manager:1/560ms
+7:06:10 PM [main] [debug] ActionSet: Loading actions from file:/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/classes/core/org/gjt/sp/jedit/actions.xml
+7:06:10 PM [main] [debug] DockableWindowManager: Loading dockables from file:/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/classes/core/org/gjt/sp/jedit/dockables.xml
+7:06:10 PM [main] [debug] SplashScreen: init resources:62/622ms
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: SearchSettingsChanged[source=null]
+7:06:10 PM [main] [debug] SplashScreen: Migrate keymaps:18/640ms
+7:06:10 PM [main] [notice] jEdit: Loading plugins from /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/jars
+7:06:10 PM [main] [notice] jEdit: Loading plugins from /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/jars
+7:06:10 PM [main] [debug] SplashScreen: init plugins:3/643ms
+7:06:10 PM [main] [message] HistoryModel: Loading history
+7:06:10 PM [main] [debug] SplashScreen: init history model:2/645ms
+7:06:10 PM [main] [message] BufferHistory: Loading /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/recent.xml
+7:06:10 PM [main] [debug] SplashScreen: init buffer history:3/648ms
+7:06:10 PM [main] [message] KillRing: Loading /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/killring.xml
+7:06:10 PM [main] [debug] SplashScreen: init killring:6/654ms
+7:06:10 PM [main] [debug] jEdit: initPLAF non-edt old=com.apple.laf.AquaLookAndFeel requested=null new=com.apple.laf.AquaLookAndFeel
+7:06:10 PM [main] [debug] jEdit: SOCKS proxy disabled
+7:06:10 PM [main] [debug] jEdit: HTTP proxy disabled
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: PropertiesChanged[source=null]
+7:06:10 PM [main] [debug] SplashScreen: init various properties:34/688ms
+7:06:10 PM [main] [message] jEdit: Loading mode catalog file /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/modes/catalog
+7:06:10 PM [main] [message] jEdit: Loading mode catalog file /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/modes/catalog
+7:06:10 PM [main] [debug] SplashScreen: init modes:27/715ms
+7:06:10 PM [main] [debug] SplashScreen: activate plugins:2/717ms
+7:06:10 PM [main] [debug] Macros: Registered beanshell macro handler
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: DynamicMenuChanged[menu=macros,source=null]
+7:06:10 PM [main] [debug] SplashScreen: init macros:6/723ms
+7:06:10 PM [main] [message] BeanShell: Running script /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/startup/startup.bsh
+7:06:10 PM [main] [notice] jEdit$5: Loading edit mode /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/modes/text.xml
+7:06:10 PM [main] [debug] String: BeanShell interpreter version 2.0b4-jedit
+7:06:10 PM [main] [debug] SplashScreen: run startup scripts:55/778ms
+7:06:10 PM [main] [debug] SplashScreen: run startup scripts:1/779ms
+7:06:10 PM [main] [debug] SplashScreen: run startup scripts:1/779ms
+7:06:10 PM [main] [debug] jEdit: main done:1009 ms
+7:06:10 PM [AWT-EventQueue-0] [message] PerspectiveManager: Loading /Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/perspective.xml
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=PROPERTIES_CHANGED,view=null,source=Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/)]
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=CREATED,view=null,source=Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/)]
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOAD_STARTED,view=null,source=Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/)]
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferUpdate[what=LOADED,view=null,source=Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/)]
+7:06:10 PM [AWT-EventQueue-0] [debug] BufferSet: 1760943618: addBufferSetListener org.gjt.sp.jedit.EditPane[inactive]
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: BufferChanging[what=BUFFER_CHANGING,source=org.gjt.sp.jedit.EditPane[inactive]]
+7:06:10 PM [AWT-EventQueue-0] [debug] BufferSet: 1760943618 addBufferAt(Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/),-1)
+7:06:10 PM [AWT-EventQueue-0] [debug] BufferSet: 1760943618: Buffer added Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/) at 0
+7:06:10 PM [AWT-EventQueue-0] [debug] EditBus: EditPaneUpdate[what=CREATED,source=org.gjt.sp.jedit.EditPane[inactive]]
+7:06:10 PM [AWT-EventQueue-0] [debug] BufferSet: 1760943618 addBufferAt(Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/),0)
+7:06:10 PM [AWT-EventQueue-0] [debug] BufferSet: 1760943618 addBufferAt(Untitled-1 (~/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/),1)
+7:06:11 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=CREATED,source=org.gjt.sp.jedit.View[active]]
+7:06:11 PM [AWT-EventQueue-0] [debug] EditBus: EditorStarted[source=null]
+7:06:11 PM [AWT-EventQueue-0] [message] jEdit: Startup complete: 1267 ms
+7:06:11 PM [AWT-EventQueue-0] [debug] EditBus: ViewUpdate[what=VIEW_ACTIVATED,source=org.gjt.sp.jedit.View[active]]
+7:06:11 PM [AWT-EventQueue-0] [debug] JEditTextArea: InputMethodSupport is activated
+7:06:40 PM [AWT-EventQueue-0] [debug] MiscUtilities: Saving backup of file "/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/perspective.xml" to "/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/settings-backup/perspective.xml~1~"

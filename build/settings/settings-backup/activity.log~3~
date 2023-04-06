@@ -1,0 +1,38 @@
+Log file created on Mon Mar 20 19:02:31 CDT 2023
+IMPORTANT:
+Because updating this file after every log message would kill
+performance, it will be *incomplete* unless you invoke the
+Utilities->Troubleshooting->Update Activity Log on Disk command!
+7:02:30 PM [main] [message] Log: When reporting bugs, please include the following information:
+7:02:30 PM [main] [message] Log: java.version=1.8.0_362
+7:02:30 PM [main] [message] Log: java.vm.version=25.362-b09
+7:02:30 PM [main] [message] Log: java.vm.name=OpenJDK 64-Bit Server VM
+7:02:30 PM [main] [message] Log: java.runtime.version=1.8.0_362-b09
+7:02:30 PM [main] [message] Log: java.runtime.name=OpenJDK Runtime Environment
+7:02:30 PM [main] [message] Log: java.vendor=Azul Systems, Inc.
+7:02:30 PM [main] [message] Log: java.compiler=null
+7:02:30 PM [main] [message] Log: os.name=Mac OS X
+7:02:30 PM [main] [message] Log: os.version=13.2.1
+7:02:30 PM [main] [message] Log: os.arch=aarch64
+7:02:30 PM [main] [message] Log: user.home=/Users/dharav
+7:02:30 PM [main] [message] Log: java.home=/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre
+7:02:30 PM [main] [message] Log: java.class.path=/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/cat.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/cldrdata.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/crs-agent.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/dnsns.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/jaccess.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/localedata.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/nashorn.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/sunec.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/ext/zipfs.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/management-agent.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/zulu-8.jdk/Contents/Home/jre/lib/rt.jar:/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/classes/core:/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/jsr305-3.0.2.jar:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar
+7:02:30 PM [main] [message] jEdit: starting with command line arguments: -settings=/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings
+7:02:30 PM [main] [notice] jEdit: An error occurred while connecting to the jEdit server instance.
+7:02:30 PM [main] [notice] jEdit: This probably means that jEdit crashed and/or exited abnormally
+7:02:30 PM [main] [notice] jEdit: the last time it was run.
+7:02:30 PM [main] [notice] jEdit: If you don't know what this means, don't worry.
+7:02:30 PM [main] [notice] jEdit: java.net.ConnectException: Connection refused (Connection refused)
+7:02:30 PM [main] [notice] jEdit:  at java.net.PlainSocketImpl.socketConnect(Native Method)
+7:02:30 PM [main] [notice] jEdit:  at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+7:02:30 PM [main] [notice] jEdit:  at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+7:02:30 PM [main] [notice] jEdit:  at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+7:02:30 PM [main] [notice] jEdit:  at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+7:02:30 PM [main] [notice] jEdit:  at java.net.Socket.connect(Socket.java:613)
+7:02:30 PM [main] [notice] jEdit:  at java.net.Socket.connect(Socket.java:561)
+7:02:30 PM [main] [notice] jEdit:  at java.net.Socket.<init>(Socket.java:457)
+7:02:30 PM [main] [notice] jEdit:  at java.net.Socket.<init>(Socket.java:267)
+7:02:30 PM [main] [notice] jEdit:  at org.gjt.sp.jedit.jEdit.main(jEdit.java:320)
+7:02:30 PM [main] [debug] jEdit: before splash screen activation:34 ms
+7:02:31 PM [main] [debug] jEdit: after splash screen activation:857 ms
+7:02:31 PM [main] [debug] MiscUtilities: Saving backup of file "/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/activity.log" to "/Users/dharav/Desktop/Docs/Temp/UTD/Class_Spring_2023/CS6356/Assignment2/JEdit-5.5.0-master/build/settings/settings-backup/activity.log~1~"

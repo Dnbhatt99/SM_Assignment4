@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE PERSPECTIVE SYSTEM "perspective.dtd">
+<PERSPECTIVE>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="TRUE">/Users/dharav/Desktop/Indian Nature Myths, by Julia Darrow Cowles.txt</BUFFER>
+<BUFFER AUTORELOAD="TRUE" AUTORELOAD_DIALOG="TRUE" UNTITLED="FALSE">/Users/dharav/Desktop/The Return of Sherlock Holmes, by Arthur Conan Doyle.txt</BUFFER>
+<VIEW PLAIN="FALSE">
+<PANES>
+"/Users/dharav/Desktop/The Return of Sherlock Holmes, by Arthur Conan Doyle.txt" buffer "/Users/dharav/Desktop/Indian Nature Myths, by Julia Darrow Cowles.txt" buff "/Users/dharav/Desktop/The Return of Sherlock Holmes, by Arthur Conan Doyle.txt" buff "global" bufferset
+</PANES>
+<GEOMETRY X="691" Y="505" WIDTH="557" HEIGHT="349" EXT_STATE="6" />
+</VIEW>
+</PERSPECTIVE>
